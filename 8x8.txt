@@ -1,0 +1,10 @@
+8
+8
+E B G * * B * B
+G * * * B * G *
+G E B $ * B B *
+G * G $ B B B $
+E S B B B * G *
+B * G B * G G $
+E $ B B G * * G
+$ * * G $ B B $
