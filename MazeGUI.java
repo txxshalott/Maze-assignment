@@ -9,7 +9,7 @@ import java.io.*;
  * shalott tam
  * may - june 4 2022
  * GUI aspect of the maze assignment
- * NOTE: this program only runs (properly) once .. tried to make it loop but to no avail
+ * Works, but it's not the most efficient
  */
 
 public class MazeGUI extends JFrame implements ActionListener {
